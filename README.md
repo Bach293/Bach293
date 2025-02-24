@@ -21,8 +21,4 @@
 - 📘 Facebook: [Nguyễnn Bách](https://www.facebook.com/bach.nguyenn.90)
 
 ## 🖥️ Programming Languages in My Repositories
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-
----
-⭐️ From [your-github-username](https://github.com/your-github-username)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bach293&layout=compact&theme=radical)
