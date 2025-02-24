@@ -17,8 +17,8 @@
 - **AI & ML**: Machine Learning, Deep Learning
 
 ## 📫 How to Reach Me
-- 📧 Email: your.email@example.com
-- 📘 Facebook: [Your Facebook](https://www.facebook.com/bach.nguyenn.90)
+- 📧 Email: bach01299929785@gmai.com
+- 📘 Facebook: [Nguyễnn Bách](https://www.facebook.com/bach.nguyenn.90)
 
 ## 🖥️ Programming Languages in My Repositories
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
