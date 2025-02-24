@@ -1,27 +1,41 @@
-# Hi there! 👋
+Hi there! 👋
 
-## 🚀 About Me
-- 🎓 I'm a Computer Science student at Thuy Loi University.
-- 💻 Passionate about Web Development, AI, and Big Data.
-- 🌱 Currently learning JavaScript and exploring AI applications.
-- 🔭 Working on smart property search systems and Botnet detection using deep learning.
+🚀 About Me
 
-## 🛠 Tech Stack
-- **Frontend**: React.js, Vue.js
-- **Backend**: Node.js, Express.js, Laravel
-- **Database**: MySQL
-- **DevOps**: AWS, Docker, Nginx
-- **AI & ML**: OpenCV, Deep Learning, GenAI
+🎓 I'm a Computer Science student at Thuy Loi University.
 
-## 📫 How to Reach Me
-- 📧 Email: your.email@example.com
-- 🔗 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 🐦 Twitter: [Your Twitter](https://twitter.com/yourprofile)
-- 🌐 Personal Website: [yourwebsite.com](https://yourwebsite.com)
+💻 Passionate about Web Development, AI, and Big Data.
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+🌱 Currently learning JavaScript and exploring AI applications.
 
----
-⭐️ From [your-github-username](https://github.com/your-github-username)
+🔭 Working on smart property search systems and Botnet detection using deep learning.
 
+🧑 Sometimes introverted, sometimes extroverted, I love nature, girls, and money.
+
+🏆 Coding for passion, coming from ThuyLoi University.
+
+🎮 Passionate about gaming, love swimming, running, and cycling.
+
+🛠 Tech Stack
+
+Frontend: React.js, Vue.js
+
+Backend: Node.js, Express.js, Laravel
+
+Database: MySQL
+
+DevOps: AWS, Docker, Nginx
+
+AI & ML: OpenCV, Deep Learning, GenAI
+
+📫 How to Reach Me
+
+📧 Email: your.email@example.com
+
+📘 Facebook: Your Facebook
+
+🖥️ Programming Languages in My Repositories
+
+
+
+⭐️ From your-github-username
