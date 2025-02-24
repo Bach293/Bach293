@@ -11,7 +11,7 @@
 
 ## 🛠 Tech Stack
 - **Frontend**: HTML/CSS (Bootstrap), Vue.js
-- **Backend**: Java, Python, PHP (Laravel), Androi (Java)
+- **Backend**: Java, Python, PHP (Laravel), Androi (Java), C# (Winform)
 - **Database**: MySQL, SQLserver, MongoDB
 - **DevOps**: GG Cloud, AWS, Docker, Nginx, 
 - **AI & ML**: Machine Learning, Deep Learning
