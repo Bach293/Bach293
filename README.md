@@ -10,15 +10,15 @@
 - 🎮 Passionate about gaming, love swimming, running, and cycling.
 
 ## 🛠 Tech Stack
-- **Frontend**: React.js, Vue.js
-- **Backend**: Node.js, Express.js, Laravel
-- **Database**: MySQL
-- **DevOps**: AWS, Docker, Nginx
-- **AI & ML**: OpenCV, Deep Learning, GenAI
+- **Frontend**: HTML/CSS (Bootstrap), Vue.js
+- **Backend**: Java, Python, PHP (Laravel), Androi (Java)
+- **Database**: MySQL, SQLserver, MongoDB
+- **DevOps**: GG Cloud, AWS, Docker, Nginx, 
+- **AI & ML**: Machine Learning, Deep Learning
 
 ## 📫 How to Reach Me
 - 📧 Email: your.email@example.com
-- 📘 Facebook: [Your Facebook](https://facebook.com/yourprofile)
+- 📘 Facebook: [Your Facebook](https://www.facebook.com/bach.nguyenn.90)
 
 ## 🖥️ Programming Languages in My Repositories
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
