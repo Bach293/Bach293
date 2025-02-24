@@ -24,5 +24,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bach293&layout=compact&theme=radical)
 
 ##
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+[Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
